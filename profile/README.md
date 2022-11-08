@@ -35,7 +35,7 @@ Our project space on NCI should ideally be organised as follows:
 wp00/
 ├── data/
 │   ├── published/
-│   │   └── qqscale/
+│   │   └── QQSCALE/
 ├── projects/
 │   ├── CCiA_update/
 │   └── fed-uni/
