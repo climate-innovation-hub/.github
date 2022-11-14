@@ -36,7 +36,6 @@ wp00/
 ├── data/
 │   └── QQSCALE/
 ├── projects/
-│   ├── CCiA_update/
 │   └── fed-uni/
 ├── shared-code/
 │   ├── agcd-masking/
@@ -51,7 +50,8 @@ wp00/
 │   ├── kcn599/
 │   ├── pjt554/
 │   ├── rb4844/
-│   └── rg9861/
+│   ├── rg9861/
+│   └── rxd603/
 ```
 
 Individual users will have write access to their own directories in `users/`.
