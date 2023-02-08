@@ -34,7 +34,8 @@ Our project space on NCI should ideally be organised as follows:
 ```
 wp00/
 ├── data/
-│   └── QQSCALE/
+│   ├── QQ-CMIP5/
+│   └── QQ-CMIP6/
 ├── projects/
 │   └── fed-uni/
 ├── shared-code/
