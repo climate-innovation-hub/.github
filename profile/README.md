@@ -21,12 +21,6 @@ The following is a summary of the repositories in this GitHub Organisation:
 - [workflows](https://github.com/climate-innovation-hub/workflows): Workflows (e.g. notebooks) used to create application-ready data
 - [CRE_Indices](https://github.com/climate-innovation-hub/CRE_Indices): Code for calculating agriculture metrics
 
-#### Code/software that can possibly be removed
-
-- [CCiA-data-reproduction](https://github.com/climate-innovation-hub/CCiA-data-reproduction)
-- [Simple_TSA_tool](https://github.com/climate-innovation-hub/Simple_TSA_tool)
-- [Output-Checking](https://github.com/climate-innovation-hub/Output-Checking)
-
 
 ## wp00
 
