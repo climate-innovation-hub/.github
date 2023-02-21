@@ -9,6 +9,7 @@ The following is a summary of the repositories in this GitHub Organisation:
 - [agcd-masking](https://github.com/climate-innovation-hub/agcd-masking): Code for masking AGCD data
 - [attribute-editing](https://github.com/climate-innovation-hub/attribute-editing): Code for editing netCDF file attributes
 - [frequency-analysis](https://github.com/climate-innovation-hub/frequency-analysis): Code for frequency analysis (e.g. return period calculation)
+- [indices](https://github.com/AusClimateService/indices): Code for calculating climate indices (hosted in the ACS GitHub Organisation)
 
 #### Code/software under development
 
