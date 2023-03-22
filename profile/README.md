@@ -6,8 +6,9 @@ The following is a summary of the repositories in this GitHub Organisation:
 
 #### Code/software currently in use
 
-- [agcd-masking](https://github.com/climate-innovation-hub/agcd-masking): Code for masking AGCD data
-- [attribute-editing](https://github.com/climate-innovation-hub/attribute-editing): Code for editing netCDF file attributes
+- [agcd-csiro](https://github.com/AusClimateService/agcd-csiro): Scripts for creating a replica of CSIRO's commercially licensed version of the AGCD dataset on NCI 
+- [agcd-masking](https://github.com/climate-innovation-hub/agcd-masking): Code for applying AGCD data quality masks (and generic shapefile masks)
+- [attribute-editing](https://github.com/climate-innovation-hub/attribute-editing): Code for applying CIH metadata to netCDF file attributes
 - [frequency-analysis](https://github.com/climate-innovation-hub/frequency-analysis): Code for frequency analysis (e.g. return period calculation)
 - [indices](https://github.com/AusClimateService/indices): Code for calculating climate indices (hosted in the ACS GitHub Organisation)
 - [qqscale](https://github.com/climate-innovation-hub/qqscale): Code for quantile-quantile scaling
