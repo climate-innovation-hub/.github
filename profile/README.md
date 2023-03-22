@@ -51,3 +51,6 @@ wp00/
 
 Individual users have write access to their own directories in `users/`.
 Only people in the writers group `wp00_w` have write access to the `data/`, `projects/` and `shared-code/` directories.
+
+Detailed data reference syntax for some of the directories listed above can be found at these links:
+- [`wp00/data/QQ-CMIP6/`](https://github.com/climate-innovation-hub/.github-private/blob/main/drs-qq-cmip6.md)
