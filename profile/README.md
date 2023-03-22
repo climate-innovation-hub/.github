@@ -10,11 +10,8 @@ The following is a summary of the repositories in this GitHub Organisation:
 - [attribute-editing](https://github.com/climate-innovation-hub/attribute-editing): Code for editing netCDF file attributes
 - [frequency-analysis](https://github.com/climate-innovation-hub/frequency-analysis): Code for frequency analysis (e.g. return period calculation)
 - [indices](https://github.com/AusClimateService/indices): Code for calculating climate indices (hosted in the ACS GitHub Organisation)
-- [shapefiles](https://github.com/aus-ref-clim-data-nci/shapefiles): Collection of shapefiles commonly used by the Australian climate research community (hosted by the Australian Community Reference Climate Data Collection)
-
-#### Code/software under development
-
 - [qqscale](https://github.com/climate-innovation-hub/qqscale): Code for quantile-quantile scaling
+- [shapefiles](https://github.com/aus-ref-clim-data-nci/shapefiles): Collection of shapefiles commonly used by the Australian climate research community (hosted by the Australian Community Reference Climate Data Collection)
 
 #### Code/software used in the past but not currently in use
 
