@@ -23,7 +23,7 @@ The following is a summary of the repositories in this GitHub Organisation:
 
 ## wp00
 
-Our project space on NCI should ideally be organised as follows:
+Our project space on NCI is organised as follows:
 
 ```
 wp00/
@@ -49,5 +49,5 @@ wp00/
 │   └── rxd603/
 ```
 
-Individual users will have write access to their own directories in `users/`.
-Only people in the writers group `wp00_w` will have write access to the `data/`, `projects/` and `shared-code/` directories.
+Individual users have write access to their own directories in `users/`.
+Only people in the writers group `wp00_w` have write access to the `data/`, `projects/` and `shared-code/` directories.
