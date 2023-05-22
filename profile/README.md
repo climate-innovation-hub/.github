@@ -4,7 +4,7 @@ This GitHub Organisation contains code and information relating to the CSIRO Cli
 
 The following is a summary of the repositories in this GitHub Organisation:
 
-| Repo | Description | Status | Catalogue |
+| Repo | Description | Status | CIH product code |
 | ---  | ---         | ---    | ---       |
 | [agcd-csiro](https://github.com/AusClimateService/agcd-csiro) | Scripts for creating a replica of CSIRO's commercially licensed version of the AGCD dataset on NCI | Active | |
 | [agcd-masking](https://github.com/climate-innovation-hub/agcd-masking) | Code for applying AGCD data quality masks (and generic shapefile masks) | Active | |
