@@ -15,7 +15,7 @@ The following is a summary of the repositories in this GitHub Organisation:
 | [indices](https://github.com/AusClimateService/indices) | Code for calculating climate indices (hosted in the ACS GitHub Organisation) | Active | CIHP-2 |
 | [qqscale](https://github.com/climate-innovation-hub/qqscale) | Code for quantile-quantile scaling | Active | |
 | [shapefiles](https://github.com/aus-ref-clim-data-nci/shapefiles) | Collection of shapefiles commonly used by the Australian climate research community | Active | |
-| [workflows](https://github.com/climate-innovation-hub/workflows) | Workflows (e.g. notebooks) used to create application-ready data | Archived | CIHP-1:[`/qq_scale`](https://github.com/climate-innovation-hub/workflows/tree/master/qq_scale)<br/>CIHP-3:[`/ffdi`](https://github.com/climate-innovation-hub/workflows/tree/master/ffdi) |
+| [workflows](https://github.com/climate-innovation-hub/workflows) | Workflows (e.g. notebooks) used to create application-ready data | Archived | CIHP-1:[`qq_scale/`](https://github.com/climate-innovation-hub/workflows/tree/master/qq_scale)<br/>CIHP-3:[`ffdi/`](https://github.com/climate-innovation-hub/workflows/tree/master/ffdi) |
  
 
 ## wp00
