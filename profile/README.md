@@ -4,22 +4,19 @@ This GitHub Organisation contains code and information relating to the CSIRO Cli
 
 The following is a summary of the repositories in this GitHub Organisation:
 
-#### Code/software currently in use
-
-- [agcd-csiro](https://github.com/AusClimateService/agcd-csiro): Scripts for creating a replica of CSIRO's commercially licensed version of the AGCD dataset on NCI 
-- [agcd-masking](https://github.com/climate-innovation-hub/agcd-masking): Code for applying AGCD data quality masks (and generic shapefile masks)
-- [attribute-editing](https://github.com/climate-innovation-hub/attribute-editing): Code for applying CIH metadata to netCDF file attributes
-- [frequency-analysis](https://github.com/climate-innovation-hub/frequency-analysis): Code for frequency analysis (e.g. return period calculation)
-- [indices](https://github.com/AusClimateService/indices): Code for calculating climate indices (hosted in the ACS GitHub Organisation)
-- [qqscale](https://github.com/climate-innovation-hub/qqscale): Code for quantile-quantile scaling
-- [shapefiles](https://github.com/aus-ref-clim-data-nci/shapefiles): Collection of shapefiles commonly used by the Australian climate research community (hosted by the Australian Community Reference Climate Data Collection)
-
-#### Code/software used in the past but not currently in use
-
-- [fed-uni](https://github.com/climate-innovation-hub/fed-uni): Code used to process data from July 2022 partnership with Federation University
-- [workflows](https://github.com/climate-innovation-hub/workflows): Workflows (e.g. notebooks) used to create application-ready data
-- [CRE_Indices](https://github.com/climate-innovation-hub/CRE_Indices): Code for calculating agriculture metrics
-
+| Repo | Description | Status | Catalogue |
+| ---  | ---         | ---    | ---       |
+| [agcd-csiro](https://github.com/AusClimateService/agcd-csiro) | Scripts for creating a replica of CSIRO's commercially licensed version of the AGCD dataset on NCI | Active | |
+| [agcd-masking](https://github.com/climate-innovation-hub/agcd-masking) | Code for applying AGCD data quality masks (and generic shapefile masks) | Active | |
+| [attribute-editing](https://github.com/climate-innovation-hub/attribute-editing) | Code for applying CIH metadata to netCDF file attributes | Active | |
+| [CRE_Indices](https://github.com/climate-innovation-hub/CRE_Indices) | Code for calculating agriculture metrics | Archived | |
+| [fed-uni](https://github.com/climate-innovation-hub/fed-uni) | Code used to pre-process data from July 2022 partnership with Federation University | Archived | |
+| [frequency-analysis](https://github.com/climate-innovation-hub/frequency-analysis) | Code for frequency analysis (e.g. return period calculation) | Active | | 
+| [indices](https://github.com/AusClimateService/indices) | Code for calculating climate indices (hosted in the ACS GitHub Organisation) | Active | CIHP-2 |
+| [qqscale](https://github.com/climate-innovation-hub/qqscale) | Code for quantile-quantile scaling | Active | |
+| [shapefiles](https://github.com/aus-ref-clim-data-nci/shapefiles) | Collection of shapefiles commonly used by the Australian climate research community | Active | |
+| [workflows](https://github.com/climate-innovation-hub/workflows) | Workflows (e.g. notebooks) used to create application-ready data | Archived | CIHP-1:[`/qq_scale`](https://github.com/climate-innovation-hub/workflows/tree/master/qq_scale)<br/>CIHP-3:[`/ffdi`](https://github.com/climate-innovation-hub/workflows/tree/master/ffdi) |
+ 
 
 ## wp00
 
