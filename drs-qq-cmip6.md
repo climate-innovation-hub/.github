@@ -1,7 +1,7 @@
 ## Data Reference Syntax: CMIP6 application ready data
 
 The Climate Innovation Hub produces CMIP6 application ready climate projection data
-using the Quantile Delta Mapping (QDM) described in the
+using the Quantile Delta Mapping (QDM) method described in the
 [qqscale repository](https://github.com/climate-innovation-hub/qqscale). 
 
 The directories associated with those data follow this structure:
