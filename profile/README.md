@@ -1,24 +1,42 @@
 This GitHub Organisation contains code and information relating to the CSIRO Climate Innovation Hub.
 
-## Respositories
+## Active Respositories
 
-The following is a summary of the repositories in this GitHub Organisation:
+The following is a summary of the repositories in this GitHub Organisation that are in active use/development.
 
-| Repo | Description | Status | CIH product code |
-| ---  | ---         | ---    | ---       |
-| [agcd-csiro](https://github.com/AusClimateService/agcd-csiro) | Scripts for creating a replica of CSIRO's commercially licensed version of the AGCD dataset on NCI | Active | |
-| [agcd-masking](https://github.com/climate-innovation-hub/agcd-masking) | Code for applying AGCD data quality masks (and generic shapefile masks) | Active | |
-| [attribute-editing](https://github.com/climate-innovation-hub/attribute-editing) | Code for applying CIH metadata to netCDF file attributes | Active | |
-| [cihp-1-application-ready-climate-projections](https://github.com/climate-innovation-hub/cihp-1-application-ready-climate-projections) | Code for CIHP-1 products | Archived | CIHP-1 |
-| [CRE_Indices](https://github.com/climate-innovation-hub/CRE_Indices) | Code for calculating agriculture metrics | Archived | |
-| [fed-uni](https://github.com/climate-innovation-hub/fed-uni) | Code used to pre-process data from July 2022 partnership with Federation University | Archived | |
-| [frequency-analysis](https://github.com/climate-innovation-hub/frequency-analysis) | Code for frequency analysis (e.g. return period calculation) | Active | | 
-| [indices](https://github.com/AusClimateService/indices) | Code for calculating climate indices (hosted in the ACS GitHub Organisation) | Active | CIHP-2 |
-| [ivcap-sdk](https://github.com/climate-innovation-hub/ivcap_sdk) | Development library to interact with the Climate Intelligence Platform | Active | |
-| [qqscale](https://github.com/climate-innovation-hub/qqscale) | Code for quantile-quantile scaling | Active | |
-| [shapefiles](https://github.com/aus-ref-clim-data-nci/shapefiles) | Collection of shapefiles commonly used by the Australian climate research community | Active | |
-| [workflows](https://github.com/climate-innovation-hub/workflows) | Workflows (e.g. notebooks) used to create application-ready data | Archived | CIHP-1:[`qq_scale/`](https://github.com/climate-innovation-hub/workflows/tree/master/qq_scale)<br/>CIHP-3:[`ffdi/`](https://github.com/climate-innovation-hub/workflows/tree/master/ffdi) |
+| Repo | Description | 
+| ---  | ---         | 
+| [agcd-csiro](https://github.com/AusClimateService/agcd-csiro) | Scripts for creating a replica of CSIRO's commercially licensed version of the AGCD dataset on NCI |
+| [agcd-masking](https://github.com/climate-innovation-hub/agcd-masking) | Code for applying AGCD data quality masks (and generic shapefile masks) |
+| [attribute-editing](https://github.com/climate-innovation-hub/attribute-editing) | Code for applying CIH metadata to netCDF file attributes |
+| [frequency-analysis](https://github.com/climate-innovation-hub/frequency-analysis) | Code for frequency analysis (e.g. return period calculation) | 
+| [indices](https://github.com/AusClimateService/indices) | Code for calculating climate indices (hosted in the ACS GitHub Organisation) |
+| [ivcap-sdk](https://github.com/climate-innovation-hub/ivcap_sdk) | Development library to interact with the Climate Intelligence Platform |
+| [qqscale](https://github.com/climate-innovation-hub/qqscale) | Code for quantile-quantile scaling |
+| [shapefiles](https://github.com/aus-ref-clim-data-nci/shapefiles) | Collection of shapefiles commonly used by the Australian climate research community |
  
+## Archived Respositories
+
+The following is a summary of the repositories in this GitHub Organisation that no longer in use and/or
+have been archived for the purposes of data provenance.
+
+| Repo | Description |
+| ---  | ---         |
+| [cihp-1-application-ready-climate-projections](https://github.com/climate-innovation-hub/cihp-1-application-ready-climate-projections) | Code for CIHP-1 products |
+| [cihp-2-climate-diagnostics](https://github.com/climate-innovation-hub/cihp-2-climate-diagnostics) | Code for CIHP-2 products |
+| [cihp-4-seasonal-rainfall](https://github.com/climate-innovation-hub/cihp-4-seasonal-rainfall) | Code for CIHP-4 products |
+| [cihp-4-1-growing-season-rainfall](https://github.com/climate-innovation-hub/cihp-4-1-growing-season-rainfall) | Code for CIHP-4-1 |
+| [cihp-4-2-summer-fallow-rainfall](https://github.com/climate-innovation-hub/cihp-4-2-summer-fallow-rainfall) | Code for CIHP-4-2 |
+| [cihp-4-3-late-season-frost-risk](https://github.com/climate-innovation-hub/cihp-4-3-late-season-frost-risk) | Code for CIHP-4-3 |
+| [cihp-4-5-heat-risk-at-joining](https://github.com/climate-innovation-hub/cihp-4-5-heat-risk-at-joining) | Code for CIHP-4-5 |
+| [CRE_Indices](https://github.com/climate-innovation-hub/CRE_Indices) | Code for calculating agriculture metrics |
+| [fed-uni](https://github.com/climate-innovation-hub/fed-uni) | Code used to pre-process data from July 2022 partnership with Federation University |
+| [workflows](https://github.com/climate-innovation-hub/workflows) | Workflows (e.g. notebooks) used to create application-ready data | 
+
+The data processed in CIHP-1, CIHP-2 and CIHP-4 (see the corresponding repositories for the processing code)
+was the CMIP5 quantile delta mapped projections data produced using the code in the 
+[`qq_scale/`](https://github.com/climate-innovation-hub/workflows/tree/master/qq_scale) directory
+of the workflows repo.
 
 ## wp00
 
