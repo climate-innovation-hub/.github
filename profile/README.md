@@ -38,6 +38,9 @@ was the CMIP5 quantile delta mapped projections data produced using the code in 
 [`qq_scale/`](https://github.com/climate-innovation-hub/workflows/tree/master/qq_scale) directory
 of the workflows repo.
 
+A complete history of the code used for quantile delta mapping at CSIRO can be found
+[here](https://github.com/climate-innovation-hub/.github-private/blob/main/qq-history.md).
+
 ## wp00
 
 Our project space on NCI is organised as follows:
