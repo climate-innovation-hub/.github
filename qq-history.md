@@ -19,13 +19,14 @@ The software/code used to apply the QDM method has evolved over the years.
    Overall it worked well, but the authors identified some things where the performance wasn’t quite as good as they'd hoped for (e.g. seasonal average change).
    The code for this original version isn't inlcuded in the CIH GitHub Organisation.
 
-2. Marcus Thatcher and Craig developed a completely new fortran code version for the VCP19 (DELWP) project work (see `fortran/`).
+2. Marcus Thatcher and Craig developed a completely new fortran code version for the VCP19 (DELWP) project work
+   (see [`qq-fortran/`](https://github.com/climate-innovation-hub/.github-private/tree/main/qq-fortran)).
    This had some subtle changes in the approach to see their “hunch” about why it behaved in a certain way could be improved.
    It added completely individual percentile binning (100 of them)
    with interpolation for change values depending on where the individual daily values fell in-between percentile bins.
    This improved the average seasonal change performance as predicted.
 
-3. The Climate Innovation Hub came into being and Raktima Dey and Vassili Kitsios started writing a python version,
+4. The Climate Innovation Hub came into being and Raktima Dey and Vassili Kitsios started writing a python version,
    which can be found at the [workflows](https://github.com/climate-innovation-hub/workflows/tree/master/qq_scale) repo.
    It implements the same improved method as the previous fortran method that Marcus and Craig developed
    and was used to produce CMIP5-based projections data for early CIH clients. 
