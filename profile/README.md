@@ -10,10 +10,12 @@ The following is a summary of the repositories in this GitHub Organisation that 
 | [agcd-masking](https://github.com/climate-innovation-hub/agcd-masking) | Code for applying AGCD data quality masks (and generic shapefile masks) |
 | [attribute-editing](https://github.com/climate-innovation-hub/attribute-editing) | Code for applying CIH metadata to netCDF file attributes |
 | [frequency-analysis](https://github.com/climate-innovation-hub/frequency-analysis) | Code for frequency analysis (e.g. return period calculation) | 
-| [indices](https://github.com/AusClimateService/indices) | Code for calculating climate indices (hosted in the ACS GitHub Organisation) |
 | [ivcap-sdk](https://github.com/climate-innovation-hub/ivcap_sdk) | Development library to interact with the Climate Intelligence Platform |
 | [qqscale](https://github.com/climate-innovation-hub/qqscale) | Code for quantile-quantile scaling |
-| [shapefiles](https://github.com/aus-ref-clim-data-nci/shapefiles) | Collection of shapefiles commonly used by the Australian climate research community |
+
+The [indices](https://github.com/AusClimateService/indices) repository hosted by the Australian Climate Service
+and [shapefiles](https://github.com/aus-ref-clim-data-nci/shapefiles) repository hosted by the Australian Community Reference Climate Data Collection
+are also used and contributed to by CIH staff.
  
 ## Archived Respositories
 
