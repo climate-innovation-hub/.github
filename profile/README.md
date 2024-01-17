@@ -31,7 +31,7 @@ The following is a summary of the repositories corresponding to particular CIH p
 | CIHP-4-2 | [cihp-4-2-summer-fallow-rainfall](https://github.com/climate-innovation-hub/cihp-4-2-summer-fallow-rainfall) | 
 | CIHP-4-3 | [cihp-4-3-late-season-frost-risk](https://github.com/climate-innovation-hub/cihp-4-3-late-season-frost-risk) |
 | CIHP-4-5 | [cihp-4-5-heat-risk-at-joining](https://github.com/climate-innovation-hub/cihp-4-5-heat-risk-at-joining) |
-| CIHP-13 | |
+| CIHP-13 | [qq-workflows/cihp13](https://github.com/climate-innovation-hub/qq-workflows/tree/main/cihp13) |
 
 The data processed in CIHP-1, CIHP-2 and CIHP-4 (see the corresponding repositories for the processing code)
 was the CMIP5 quantile delta mapped projections data produced using the code in the 
