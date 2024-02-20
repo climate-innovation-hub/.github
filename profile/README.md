@@ -26,19 +26,22 @@ The following is a summary of the repositories corresponding to particular CIH p
 | ---  | ---         |
 | CIHP-1 | [cihp-1-application-ready-climate-projections](https://github.com/climate-innovation-hub/cihp-1-application-ready-climate-projections) |
 | CIHP-2 | [cihp-2-climate-diagnostics](https://github.com/climate-innovation-hub/cihp-2-climate-diagnostics) |
+| CIHP-3 | [cihp-3-forest-fire-danger-index](https://github.com/climate-innovation-hub/cihp-3-forest-fire-danger-index) |
 | CIHP-4 | [cihp-4-seasonal-rainfall](https://github.com/climate-innovation-hub/cihp-4-seasonal-rainfall) |
 | CIHP-4-1 | [cihp-4-1-growing-season-rainfall](https://github.com/climate-innovation-hub/cihp-4-1-growing-season-rainfall) |
 | CIHP-4-2 | [cihp-4-2-summer-fallow-rainfall](https://github.com/climate-innovation-hub/cihp-4-2-summer-fallow-rainfall) | 
 | CIHP-4-3 | [cihp-4-3-late-season-frost-risk](https://github.com/climate-innovation-hub/cihp-4-3-late-season-frost-risk) |
+| CIHP-4-4 | [cihp-4-4-late-season-heat-risk](https://github.com/climate-innovation-hub/cihp-4-4-late-season-heat-risk) |
 | CIHP-4-5 | [cihp-4-5-heat-risk-at-joining](https://github.com/climate-innovation-hub/cihp-4-5-heat-risk-at-joining) |
+| CIHP-5 | [cihp-5-coastal-inundation](https://github.com/climate-innovation-hub/cihp-5-coastal-inundation) |
 | CIHP-13 | [qq-workflows/cihp13](https://github.com/climate-innovation-hub/qq-workflows/tree/main/cihp13) |
 
-The data processed in CIHP-1, CIHP-2 and CIHP-4 (see the corresponding repositories for the processing code)
-was the CMIP5 quantile delta mapped projections data produced using the code in the 
+The data processed in CIHP-1, CIHP-2, CIHP-3 and CIHP-4 (see the corresponding repositories for the processing code)
+was the CMIP5 quantile delta change projections data produced using the code in the 
 [`qq_scale/`](https://github.com/climate-innovation-hub/workflows/tree/master/qq_scale) directory
 of the workflows repo.
 
-A complete history of the code used for quantile delta mapping at CSIRO can be found
+A complete history of the code used for quantile delta change projections at CSIRO can be found
 [here](https://github.com/climate-innovation-hub/.github-private/blob/main/qq-history.md).
 
 ## Archived Respositories
@@ -63,7 +66,7 @@ wp00/
 │   ├── CIHP5/
 │   ├── observations/
 │   ├── QQ-CMIP5/
-│   └── QQ-CMIP6/
+│   └── QDC-CMIP6/
 ├── projects/
 │   └── fed-uni/
 ├── shared-code/
