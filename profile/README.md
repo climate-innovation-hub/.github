@@ -12,9 +12,8 @@ The following is a summary of the repositories in this GitHub Organisation that 
 | [cih-utils](https://github.com/climate-innovation-hub/cih-utils) | General utility code used in the CIH |
 | [frequency-analysis](https://github.com/climate-innovation-hub/frequency-analysis) | Code for frequency analysis (e.g. return period calculation) | 
 | [ivcap-sdk](https://github.com/climate-innovation-hub/ivcap_sdk) | Development library to interact with the Climate Intelligence Platform |
-| [qqscale](https://github.com/climate-innovation-hub/qqscale) | Code for quantile-quantile scaling |
 
-The [indices](https://github.com/AusClimateService/indices) repository hosted by the Australian Climate Service
+The [indices](https://github.com/AusClimateService/indices) and [qqscale](https://github.com/AusClimateService/qqscale) repositories hosted by the Australian Climate Service
 and [shapefiles](https://github.com/aus-ref-clim-data-nci/shapefiles) repository hosted by the Australian Community Reference Climate Data Collection
 are also used and contributed to by CIH staff.
 
