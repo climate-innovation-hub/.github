@@ -33,7 +33,6 @@ The following is a summary of the repositories corresponding to particular CIH p
 | CIHP-4-4 | [cihp-4-4-late-season-heat-risk](https://github.com/climate-innovation-hub/cihp-4-4-late-season-heat-risk) |
 | CIHP-4-5 | [cihp-4-5-heat-risk-at-joining](https://github.com/climate-innovation-hub/cihp-4-5-heat-risk-at-joining) |
 | CIHP-5 | [cihp-5-coastal-inundation](https://github.com/climate-innovation-hub/cihp-5-coastal-inundation) |
-| CIHP-13 | [qq-workflows/cihp13](https://github.com/climate-innovation-hub/qq-workflows/tree/main/cihp13) |
 
 The data processed in CIHP-1, CIHP-2, CIHP-3 and CIHP-4 (see the corresponding repositories for the processing code)
 was the CMIP5 quantile delta change projections data produced using the code in the 
