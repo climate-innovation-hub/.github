@@ -1,14 +1,15 @@
-## Quantile Delta Mapping at CSIRO
+## Quantile scaling at CSIRO
 
 For many years now,
 CSIRO has produced climate projection data by applying modelled quantile delta changes
 (e.g. between an historical and future model simulation)
 either additively or multiplicatively to observational data.
 This method is often referred to a "quantile-quantile scaling" around CSIRO,
-but in the literature has been labelled "Quantile Delta Mapping"
-(QDM; [Cannon et al 2015](https://doi.org/10.1175/JCLI-D-14-00754.1)).
+but in the literature is referred to as the Quantile Delta Change (QDC) method
+([Olsson et al 2009](https://doi.org/10.1016/j.atmosres.2009.01.015);
+[Willems & Vrac 2011](https://doi.org/10.1016/j.jhydrol.2011.02.030)).
 
-The software/code used to apply the QDM method has evolved over the years.
+The software/code used to apply the QDC method has evolved over the years.
 
 ### Old code
  
@@ -17,7 +18,7 @@ The software/code used to apply the QDM method has evolved over the years.
    This was used to create the application ready rainfall data that is available through Climate Change in Australia.
    It used a combination of shell scripting, ferret, cdo and fortran code.
    Overall it worked well, but the authors identified some things where the performance wasn’t quite as good as they'd hoped for (e.g. seasonal average change).
-   The code for this original version isn't inlcuded in the CIH GitHub Organisation.
+   I don't have a copy of the code used to implement this original version.
 
 2. Marcus Thatcher and Craig developed a completely new fortran code version for the VCP19 (DELWP) project work
    (see [`qq-fortran/`](https://github.com/climate-innovation-hub/.github-private/tree/main/qq-fortran)).
@@ -74,9 +75,9 @@ depending on where the individual daily values fell in-between percentile bins.
 
 In an effort to improve the performance of the qq-scaling code used by the CIH,
 Damien Irving has used the bias adjustment and downscaling functionality in the
-[xclim]((https://xclim.readthedocs.io)) package to implement the QDM method.
+[xclim]((https://xclim.readthedocs.io)) package to implement the QDC method.
 
 The code Damien has developed is being used to produce CMIP6-based projections data for the CIH
 and also bias corrected CORDEX data for the Australian Climate Service.
 
-https://github.com/climate-innovation-hub/qqscale
+https://github.com/AusClimateService/qqscale
