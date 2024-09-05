@@ -40,7 +40,7 @@ was the CMIP5 quantile delta change projections data produced using the code in 
 of the workflows repo.
 
 A complete history of the code used for quantile delta change projections at CSIRO can be found
-[here](https://github.com/climate-innovation-hub/.github-private/blob/main/qq-history.md).
+[here](https://github.com/climate-innovation-hub/qq-history).
 
 ## Archived Respositories
 
