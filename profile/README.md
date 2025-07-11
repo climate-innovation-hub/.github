@@ -1,5 +1,7 @@
 This GitHub Organisation contains code and information relating to the CSIRO Climate Innovation Hub.
 
+Many of the repositories linked below are private and only visible to members of the Climate Innovation Hub GitHub Organisation.
+
 ## Active Respositories
 
 The following is a summary of the repositories in this GitHub Organisation that are in active use/development.
